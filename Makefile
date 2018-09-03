@@ -3,7 +3,7 @@ tmp-dir := tmp
 color := \#fdbe2c
 
 .PHONY: all
-all: $(output-dir) $(output-dir)/cat-1.png $(output-dir)/cat-2.png $(output-dir)/cat-3.png
+all: $(output-dir) $(output-dir)/cat-1.png $(output-dir)/cat-2.png $(output-dir)/cat-3.png $(output-dir)/cat-4.png
 
 .PHONY: clean
 clean:
